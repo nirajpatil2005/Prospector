@@ -1,0 +1,27 @@
+{
+  "took_seconds": 0.14,
+  "count": 1,
+  "results": [
+    {
+      "url": "https://example.com",
+      "domain": "example.com",
+      "scraped_at": "2026-02-08T12:24:05.609603",
+      "title": "Example Domain",
+      "meta_description": null,
+      "headings": {
+        "h1": [
+          "Example Domain"
+        ],
+        "h2": [],
+        "h3": []
+      },
+      "paragraphs": [
+        "This domain is for use in documentation examples without needing permission. Avoid use in operations."
+      ],
+      "list_items": [],
+      "emails": [],
+      "phones": [],
+      "full_text": "Example Domain Example Domain This domain is for use in documentation examples without needing permission. Avoid use in operations. Learn more"
+    }
+  ]
+}

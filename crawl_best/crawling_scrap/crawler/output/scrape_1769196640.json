@@ -1,0 +1,12 @@
+{
+  "took_seconds": 0.0,
+  "count": 1,
+  "results": [
+    {
+      "url": "facebook.com",
+      "domain": "",
+      "scraped_at": "2026-01-24T01:00:40.882815",
+      "error": "Invalid URL 'facebook.com': No scheme supplied. Perhaps you meant https://facebook.com?"
+    }
+  ]
+}

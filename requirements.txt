@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+playwright
+scrapy
+httpx
+google-generativeai
+python-dotenv
+pydantic
+apify-client
