@@ -7,3 +7,5 @@ google-generativeai
 python-dotenv
 pydantic
 apify-client
+async-lru
+groq
